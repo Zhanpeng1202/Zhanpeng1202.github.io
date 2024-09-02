@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhanpeng # the website title (if blank, full name will be used instead)
-first_name: Zhanpeng
-middle_name: 
+title: Personal Website # the website title (if blank, full name will be used instead)
+first_name: Zhanpeng 
+middle_name: R.
 last_name: Luo
 email: zhl357@pitt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
