@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Pittsburgh</a>. Pittsburgh PA, US
+subtitle: <a href='#'>University of Pittsburgh</a>. ZhanpengLuo at Pitt dot edu
 
 profile:
   align: right
-  image: zhanpeng_bg.png
+  image: zhanpeng_bg1.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -18,4 +18,8 @@ social: False # includes social icons at the bottom of the page
 
 I am Zhanpeng Luo, a third year computer science major student at University of Pittsburgh (Pitt). I spent 2 years at Sichuan University, and then I transfer to the Univerisity of Pittsburgh.
 
-I am passionate about three-dimensional vision, real-time rendering and generative model. Specifically, I am working on the optimization process of gaussian splatting, towards training seamlessly on arbitrary large scene. Currently, I am supervised by [Dr.Bernhard Kerbl](https://snosixtyboo.github.io/).
+I am interested in three-dimensional vision, real-time rendering and generative model. Specifically, I am working on the optimization process of gaussian splatting, towards training seamlessly on arbitrary large scene. Currently, I am supervised by [Dr.Bernhard Kerbl](https://snosixtyboo.github.io/).
+
+In my spare time, I often cook. Here is some of my cuisines I made after I come to the United States, and I also work out. If you are at Okaland, Pittsburgh, we can play baskteball together at the Trees Hall.
+
+If you would like to chat about life, cuisine, or CV, CG, or gaussian splatting, please directly send me a email.
