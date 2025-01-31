@@ -12,8 +12,8 @@ profile:
 
 
 news: False # includes a list of news items
-selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False # includes social icons at the bottom of the page
+selected_papers: True # includes a list of papers marked as "selected={true}"
+social: True # includes social icons at the bottom of the page
 ---
 
 I am Zhanpeng Luo, a third year computer science major student at University of Pittsburgh (Pitt). I spent 2 years at Sichuan University, and then I transfer to the Univerisity of Pittsburgh.
