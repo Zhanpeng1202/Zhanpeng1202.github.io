@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Pittsburgh</a>. Pittsburgh PA, US
 
 profile:
   align: right
-  image: luozhanpeng.jpg
+  image: zhanpeng_bg.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
